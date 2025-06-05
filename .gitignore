@@ -1,0 +1,11 @@
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# NO ignorar archivos .bin - son necesarios para OTA
+!*.bin
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
